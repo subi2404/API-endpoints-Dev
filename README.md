@@ -1,17 +1,3 @@
-
-It includes:
-
-* ✅ Project overview
-* ✅ Tech stack
-* ✅ How to run
-* ✅ API documentation (API 1 and API 2)
-* ✅ Challenges faced & solutions
-
----
-
-## ✅ Copy this as `README.md` in your root project folder:
-
-````markdown
 # 🍽️ Recipe API Project
 
 This project was developed as part of an API Development Assessment. It involves:
