@@ -1,4 +1,4 @@
-# 🍽️ Recipe API Project
+# Recipe API Project
 
 This project was developed as part of an API Development Assessment. It involves:
 - Parsing a large JSON file of recipes
